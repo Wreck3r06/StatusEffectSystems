@@ -28,3 +28,6 @@ The Actor is where the functionality for the effect goes and the actor component
 3. Speed Boost - This effect increases the players move speed
 4. Vision - This disturbs the players vision
 5. Poison - Reduces the players health
+
+
+Note: If you have issues with invalid parent class then just re do the code.
